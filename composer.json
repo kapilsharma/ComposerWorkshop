@@ -8,5 +8,13 @@
             "email": "kapilsharma@djalexander.in"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/console": "^4.1"
+    },
+    "autoload": {
+      "psr-4": {"dja\\": "src/dja"}
+    },
+    "autoload-dev": {
+      "psr-4": {"dja\\": "tests/dja"}
+    }
 }
