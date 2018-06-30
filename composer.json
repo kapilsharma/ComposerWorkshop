@@ -1,0 +1,12 @@
+{
+    "name": "kapil/composer-workshop",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kapil Sharma",
+            "email": "kapilsharma@djalexander.in"
+        }
+    ],
+    "require": {}
+}
